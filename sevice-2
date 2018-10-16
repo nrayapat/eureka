@@ -1,1 +1,2 @@
-messege = helloo
+server.port=9089
+message2=service-2
